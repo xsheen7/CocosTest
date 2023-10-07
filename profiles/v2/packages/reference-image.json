@@ -1,0 +1,9 @@
+{
+  "__version__": "1.0.0",
+  "show": true,
+  "config": {
+    "images": [],
+    "sceneUUID": {},
+    "scene": "fe80e501-77fa-4866-bc77-526a56d10409"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "__version__": "1.3.6",
+  "log": {
+    "level": 4
+  },
+  "common": {
+    "polyfills": {
+      "asyncFunctions": true
+    },
+    "buildPath": "project://build",
+    "outputName": "android",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "android"
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1696664216048": {
+        "type": "build",
+        "id": "1696664216048",
+        "progress": 1,
+        "state": "success",
+        "stage": "build",
+        "message": "10-7-2023 15:37:54 build success in 58391 ms!",
+        "options": {
+          "name": "CocosTest",
+          "server": "",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "polyfills": {
+            "asyncFunctions": false
+          },
+          "experimentalEraseModules": false,
+          "startSceneAssetBundle": false,
+          "bundleConfigs": [],
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_dep",
+          "useSplashScreen": true,
+          "bundleCommonChunk": false,
+          "packAutoAtlas": true,
+          "startScene": "fe80e501-77fa-4866-bc77-526a56d10409",
+          "outputName": "android",
+          "taskName": "android",
+          "scenes": [
+            {
+              "url": "db://assets/scenes/apploader.scene",
+              "uuid": "fe80e501-77fa-4866-bc77-526a56d10409"
+            }
+          ],
+          "packages": {},
+          "__version__": "1.3.6",
+          "buildMode": "normal",
+          "logDest": "project://temp/builder/log/android10-7-2023 15-36.log"
+        },
+        "time": "10-7-2023 15:36:56",
+        "dirty": false,
+        "rawOptions": {
+          "name": "CocosTest",
+          "server": "",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "polyfills": {
+            "asyncFunctions": false
+          },
+          "experimentalEraseModules": false,
+          "startSceneAssetBundle": false,
+          "bundleConfigs": [],
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_dep",
+          "useSplashScreen": true,
+          "bundleCommonChunk": false,
+          "packAutoAtlas": true,
+          "startScene": "fe80e501-77fa-4866-bc77-526a56d10409",
+          "outputName": "android",
+          "taskName": "android",
+          "scenes": [
+            {
+              "url": "db://assets/scenes/apploader.scene",
+              "uuid": "fe80e501-77fa-4866-bc77-526a56d10409"
+            }
+          ],
+          "packages": {
+            "engine": {
+              "cleanupImageCache": "inheritProjectSetting",
+              "__version__": "1.0.7"
+            },
+            "android": {
+              "packageName": "com.test.demo",
+              "orientation": {
+                "portrait": true,
+                "upsideDown": false,
+                "landscapeRight": false,
+                "landscapeLeft": false
+              },
+              "apiLevel": 33,
+              "appABIs": [
+                "arm64-v8a",
+                "armeabi-v7a"
+              ],
+              "useDebugKeystore": true,
+              "keystorePath": "",
+              "keystorePassword": "",
+              "keystoreAlias": "",
+              "keystoreAliasPassword": "",
+              "appBundle": false,
+              "androidInstant": false,
+              "inputSDK": false,
+              "remoteUrl": "",
+              "sdkPath": "",
+              "ndkPath": "",
+              "renderBackEnd": {
+                "vulkan": false,
+                "gles3": true,
+                "gles2": true
+              },
+              "swappy": false,
+              "__version__": "1.0.1"
+            },
+            "cocos-service": {
+              "configID": "8f5402",
+              "services": [],
+              "__version__": "3.0.7"
+            },
+            "native": {
+              "encrypted": false,
+              "xxteaKey": "f1xU5BzaxGV6sXQf",
+              "compressZip": false,
+              "JobSystem": "none",
+              "__version__": "1.0.2"
+            }
+          },
+          "__version__": "1.3.6",
+          "buildMode": "normal",
+          "logDest": "project://temp/builder/log/android10-7-2023 15-36.log"
+        }
+      }
+    }
+  }
+}

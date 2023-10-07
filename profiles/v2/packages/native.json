@@ -1,0 +1,29 @@
+{
+  "__version__": "1.0.2",
+  "builder": {
+    "taskOptionsMap": {
+      "1696663581687": {
+        "encrypted": false,
+        "xxteaKey": "f1xU5BzaxGV6sXQf",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.2"
+      },
+      "1696664063256": {
+        "encrypted": false,
+        "xxteaKey": "f1xU5BzaxGV6sXQf",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.2"
+      },
+      "1696664216048": {
+        "encrypted": false,
+        "xxteaKey": "f1xU5BzaxGV6sXQf",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.2"
+      }
+    },
+    "__version__": "1.3.6"
+  }
+}
